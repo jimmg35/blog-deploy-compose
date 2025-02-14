@@ -3,7 +3,7 @@ version: "3"
 services:
   blog-client:
     container_name: blog-client
-    image: jimmg35/blog-client-next:b1.20250213.91
+    image: jimmg35/blog-client-next:b1.20250213.92
     ports:
       - 3000:3000
     restart: always
